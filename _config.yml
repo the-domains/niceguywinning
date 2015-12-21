@@ -1,0 +1,28 @@
+name: NiceGuyWinning
+favicon: null
+layout_spectrum: 0.48175325174815953
+typography_spectrum: 0.2701687393710017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7106414034496993
+  lightness: 0.459787038853392
+  saturation: 0.7184696635231376
+  rhythmicContrast: 0.549286141525954
+purpose: []
