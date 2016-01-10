@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Nice Guy Winning]]></title>
         <description><![CDATA[Nice Guy Winning]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/niceguywinning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 18:30:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 13:58:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/niceguywinning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/niceguywinning/71ac9a1d-d3c8-4455-9060-2266a2198e74/index.html</link>
+            <guid isPermaLink="false">71ac9a1d-d3c8-4455-9060-2266a2198e74</guid>
+            <pubDate>Sun, 10 Jan 2016 13:58:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi!  Welcome to niceguywinning.com.  Here the subject of conversation will be centered around things I care about.  Hopefully you will find that we have some things in common.</p>]]></description>
-            <link>undefined5d238c55-01ef-400c-b2ac-830d8836dec7/index.html</link>
+            <link>https://thegrid.ai/niceguywinning/5d238c55-01ef-400c-b2ac-830d8836dec7/index.html</link>
             <guid isPermaLink="false">5d238c55-01ef-400c-b2ac-830d8836dec7</guid>
             <pubDate>Mon, 21 Dec 2015 18:30:32 GMT</pubDate>
         </item>
